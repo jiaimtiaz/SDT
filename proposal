@@ -1,0 +1,33 @@
+
+                                      ONLINE LIBRARY MANAGEMENT SYSTEM
+
+Project Introduction:
+
+Our LMS will be able to reserve the books online and also reserve the books if needed earlier. The searching facility will be provided with the help of OPAC which organizes the circulation management system. The LMS has an online website and each patron will have a library card. Through the library card the patron borrows and returns, reserves and issues books. CMS keeps records of all the database of the library. Report manager also manages OPAC. Patron accesses the website and with the help of which it can reserve the books online and also search for available books easily. This is the LMS that we will work on.
+LMS of KOHA is open source software and it provides a gateway to every institution and huge organization to manage the library efficiently. 
+It has the following tables:
+1.	Library
+2.	Librarian
+3.	Library card
+4.	Website
+5.	OPAC
+6.	CMS
+7.	Book
+8.	Patron
+9.	Report Manager
+10.	Add books
+
+The schema describes the table’s relationships with one another and how they are linked together. Relationship is also shown explicitly in the schema. 
+Reliability in KOHA which is an open source Integrated Library System (ILS), used world-wide by public, school and special libraries. It has the database which does the basic work i-e data entry and student entry. 
+
+
+
+Group members:
+             Syeda Javaria Imtiaz(1269)
+             Ayesha Quddus(1245)
+             Sehrish Naeem(1330)
+             Nabila Naz(1317)
+             
+             
+        Section:bsse-f10-b
+ 
